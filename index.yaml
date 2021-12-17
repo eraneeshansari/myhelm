@@ -3,9 +3,9 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2021-12-17T03:28:01.68131336Z"
-    description: this is myapp v1
-    digest: 933ac05942cf0260a0ebf189db16a8e2a40eb2c9b49ef23ec7a22f7f16050db8
+    created: "2021-12-17T03:33:08.648047271Z"
+    description: this is myapp v1_new 3.0
+    digest: f0161c8191f3285e1553ed353515923689b40344ee7e5d9c72556d76b14c0264
     name: myapp
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2021-12-17T03:28:01.681122283Z"
+    created: "2021-12-17T03:33:08.64775317Z"
     description: this is myapp v1
     digest: 07a5bc64ae35b77973741e252c52cfea8816d4ffbb4541323e987f85d76c522b
     name: myapp
@@ -23,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-12-17T03:28:01.680948167Z"
+    created: "2021-12-17T03:33:08.647376997Z"
     description: this is myapp v1
     digest: 5f5600066bd89700591c4592e97db6b6133fa4939c996dbe97b376dd189282e8
     name: myapp
@@ -31,4 +31,4 @@ entries:
     urls:
     - myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-17T03:28:01.680617087Z"
+generated: "2021-12-17T03:33:08.646932555Z"
